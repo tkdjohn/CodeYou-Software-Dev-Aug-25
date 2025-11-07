@@ -2,8 +2,6 @@
 {
     private static void Main(string[] args)
     {
-
-
         Console.WriteLine("Hello, Joe! how are  you?");
         Console.Write("my first line of code> \f >> ");
         Console.WriteLine("look I'm on the same line.");
